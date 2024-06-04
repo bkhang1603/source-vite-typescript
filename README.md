@@ -22,4 +22,4 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<p align="right" > Enjoy with 🧡 by <a href="[http://supun.traditionalme.life](https://www.facebook.com/bkhang1603/)">Le Bao Khang</a></p>
+<p align="right" > Enjoy with 🧡 by <a href="https://www.facebook.com/bkhang1603/">Le Bao Khang</a></p>
