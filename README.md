@@ -1,30 +1,25 @@
-# React + TypeScript + Vite
+<h1>Source Template made by Le Bao Khang (bkhang1603)</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,vite" />
+  </a>
+</p>
 
-Currently, two official plugins are available:
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔭 **Tổng quan:**
 
-## Expanding the ESLint configuration
+-   Đây là một template source code React sử dụng Vite và TypeScript đơn giản nhất.
+-   Được tạo ra với mong muốn giúp đỡ mọi người dễ dàng quản lý code của mình hơn.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-- Configure the top-level `parserOptions` property like this:
+🌱 **Chuyên mục một điều ước:**
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+-   Nên trước khi clone code về hay sử dụng thì hãy giúp mình:
+-   ⭐⭐⭐ và **Follow Github** để mình có động lực tiếp tục làm những dự án cho mọi người sử dụng nhé.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<p align="right" > Enjoy with 🧡 by <a href="[http://supun.traditionalme.life](https://www.facebook.com/bkhang1603/)">Le Bao Khang</a></p>
