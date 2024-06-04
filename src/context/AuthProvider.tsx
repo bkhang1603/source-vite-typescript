@@ -11,10 +11,7 @@ interface Props {
 }
 
 export const AuthProvider = ({ children }: Props) => {
-  const [user, setUser] = useState<IUser | null>({
-    id: '123',
-    name: 'John Doe'
-  })
+  const [user, setUser] = useState<IUser | null>(null)
 
   const login = (newUser: IUser) => {
     setUser(newUser)

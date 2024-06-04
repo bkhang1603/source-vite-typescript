@@ -1,5 +1,4 @@
 import { createBrowserRouter } from 'react-router-dom'
-import configs from '~/configs'
 import AuthGuard from '~/guards/AuthGuard'
 import GuestGuard from '~/guards/GuestGuard'
 import Root from '~/layouts/Root'
@@ -10,7 +9,7 @@ import User from '~/pages/User'
 
 export const router = createBrowserRouter([
   {
-    path: configs.routes.home,
+    path: '/',
     element: (
       <AuthGuard>
         <Root />
@@ -19,13 +18,13 @@ export const router = createBrowserRouter([
     children: [
       { index: true, element: <Home /> },
       {
-        path: configs.routes.user,
+        path: '/user',
         element: <User />
       }
     ]
   },
   {
-    path: configs.routes.signIn,
+    path: '/sign-in',
     element: (
       <GuestGuard>
         <SignIn />
